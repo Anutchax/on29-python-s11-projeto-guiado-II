@@ -3,21 +3,21 @@
 ## Projeto II
 
 Explicação do exercício:
-- Use o dataset proposto em aula ou busque um de sua preferência no [Kaggle](https://www.kaggle.com/).<br>
--Faça uma introdução explicando os dados e por que você escolheu o dataset.<br>
--Faça a instalação das bibliotecas necessárias para tratamento de dados, sendo necessário usar pandas e numpy.<br>
-- Utilize a biblioteca Matplotlib ou Seaborn para construir novos gráficos.<br>
--Crie visualizações de gráficos com pandas, sendo no mínimo 4 gráficos.<br>
--Faça a criação da tabela no banco de dados.<br>
-- Utilize a biblioteca Matplotlib ou Seaborn para construir novos gráficos.<br>
+ok - Use o dataset proposto em aula ou busque um de sua preferência no [Kaggle](https://www.kaggle.com/).<br>
+ok -Faça uma introdução explicando os dados e por que você escolheu o dataset.<br>
+ -Faça a instalação das bibliotecas necessárias para tratamento de dados, sendo necessário usar pandas e numpy.<br>
+ok - Utilize a biblioteca Matplotlib ou Seaborn para construir novos gráficos.<br>
+ok -Crie visualizações de gráficos com pandas, sendo no mínimo 4 gráficos.<br>
+ok -Faça a criação da tabela no banco de dados.<br>
+ok - Utilize a biblioteca Matplotlib ou Seaborn para construir novos gráficos.<br>
 
 Arquivos que devem ser submetidos:
 
 - requirements.txt
-- arquivo.csv (ou similar: json, exe, etc) utilizado
-- código de criação e edição do banco de dados (.py ou .ipynb)
-- arquivo .db com entradas de interesse
-- arquivo .ipynb com relatório contendo gráficos e insights sobre dados utilizados.
+ok - arquivo.csv (ou similar: json, exe, etc) utilizado
+ok - código de criação e edição do banco de dados (.py ou .ipynb)
+ok - arquivo .db com entradas de interesse
+ok - arquivo .ipynb com relatório contendo gráficos e insights sobre dados utilizados.
 
 ## Extra
 

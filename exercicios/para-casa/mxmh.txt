@@ -1,0 +1,31 @@
+Resultados da pesquisa sobre música e saúde mental (Music & Mental Health Survey Results)
+Resultados da pesquisa sobre gosto musical e saúde mental autorreferida
+
+Contexto
+
+A musicoterapia, ou MT, é o uso da música para melhorar o estresse, o humor e a saúde mental geral de um indivíduo.
+A MT também é reconhecida como uma prática baseada em evidências, usando a música como catalisador para hormônios “felizes”, 
+como a oxitocina.
+
+No entanto, a MT emprega uma ampla gama de gêneros diferentes, variando de uma organização para outra.
+
+O conjunto de dados MxMH visa identificar quais correlações existem, se houver, entre o gosto musical de um indivíduo e sua 
+saúde mental autorreferida. Idealmente, estas descobertas poderiam contribuir para uma aplicação mais informada da 
+MT ou simplesmente fornecer informações interessantes.
+
+Conjunto de dados da Pesquisa de Música e Saúde Mental (CC0: Domínio Público)
+
+Hours per day = Número de horas que o entrevistado ouve música por dia
+While working = O entrevistado ouve música enquanto estuda/trabalha?
+Instrumentalist = O entrevistado toca algum instrumento regularmente?
+Composer = O entrevistado compõe música?
+Exploratory = O entrevistado explora ativamente novos artistas/gêneros?
+BPM = Batidas por minuto do gênero favorito
+Efeitos musicais = A música melhora/piora as condições de saúde mental do entrevistado?
+Frequency = Com que frequência o entrevistado ouve música (gênero)
+
+Os entrevistados classificam a frequência com que ouvem 16 gêneros musicais, onde podem selecionar:
+Nunca, Raramente, Às vezes, Muito, frequentemente
+
+Os entrevistados classificam Ansiedade, Depressão, Insônia e TOC em uma escala de 0 a 10, onde:
+0 - Eu não sinto isso. / 10 - Eu experimento isso regularmente, constantemente/ou ao extremo.
